@@ -52,13 +52,30 @@ Current groups are:
 
 A future step will allow you to create and publish your own tool depending on your needs or whenever you want to showcase a library/algo.
 
+---
+**DISCLAIMER** : Sennosen is still in a early stage of concept and development. The purpose of this repo is to share the idea and the current prototype with the hope of getting some feedback. 
+- What do you think of Sennosen for fast data experimentations ?
+- What would make you want to use it for yourself ?
+- In what context would you use it ? As a hobby, for education, for business purposes ? or...
+- Any improvement ideas ?
+
+Share your opinion with us by mail on thinkyWoo@gmail.com we would really appreciate and you would support our side-project effort !
+
+---
+
 # Installation instructions
 Show your interest and I'll make it public ;-)
 
 # Next steps
-- Tool SDK to add your own tools
-- Toolbox management : multi-toolbox and tool upload
-- Move UI to React ?
+[ ] Make it OpenSource
+
+[ ] Tool SDK to add your own tools
+
+[ ] Toolbox management : multi-toolbox and tool upload for users
+
+[ ] More tools upon interest: standard SPC, ML, AI, etc.
+
+[ ] Upgrade UI to any Javascript framework ?
 
 **Do you want to collaborate ?** Join us by dropping an email to mailto:thinkyWoo.gmail.com
 
