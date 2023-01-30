@@ -1,5 +1,6 @@
 # Sennosen
 A framework for easy timeseries analysis experiments
+![OverallView](https://github.com/H202Woo/sennosen/blob/main/img/Overall1.jpg "SNS")
 
 ## Motivation
 Timeseries data analysis is an incredible topic. There are so many algorithms around and such a vivid community. Understand the underlying forces driving the macroscopic effect measured converts data into knowledge. Next, extrapolate these learnings enable users to reach one of the golden goal : data forecasting.
@@ -16,9 +17,6 @@ This is Sen-no-sen's purposes:
 - for the curious : propose a framework to learn data analysis with hands-on aside with theoritical background thanks to the contextual documentation
 
 ## First steps
-
-![OverallView](https://github.com/H202Woo/sennosen/blob/main/img/Overall1.jpg "SNS")
-
 
 
 # Installation instructions
