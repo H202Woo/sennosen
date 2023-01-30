@@ -39,14 +39,29 @@ A typical recipe for an analysis starts from the configuration of a datasource a
 
 ![](https://github.com/H202Woo/sennosen/blob/main/img/Silverkite%20forecasting%201.jpg "")
 
+## Tools
+Tools are organized in groups that make a toolbox. 
+Current groups are:
+- **Datasources** : to connect to the raw data (configured datasets only for the demo)
+- **Extract** : narrow the data context upon variables (tags) and period of time
+- **Transform** : apply a data transformation on the data as a first deifference, log transformation, etc.
+- **Visualize** : display the data
+- **Analyze** : show information extracted from the dataset
+- **Detect** : anomaly detection feature 
+- **Forecast** : forecasts dataset for a given period (be patient it's still a demo server ;-p )
+
+A future step will allow you to create and publish your own tool depending on your needs or whenever you want to showcase a library/algo.
+
 # Installation instructions
-to come
+Show your interest and I'll make it public ;-)
 
 # Next steps
-to come
+- Tool SDK to add your own tools
+- Toolbox management : multi-toolbox and tool upload
+- Move UI to React ?
+- Want to collaborate ? Join us by dropping an email to mailto:thinkyWoo.gmail.com
 
 ## Why Sen-no-sen ?
 
 Sen-no-sen (先の先); is a term taken from the japanese martial arts. It litteraly translates as "ahead" but is often extended to "initiave". In this context it means "to take the intiative (of the attack) just before the opponent initiates any movement".
 During trainings each opponents throw their souls into the perception of every single movement, sign or intention to attack in order to react accordingly. The name sen-no-sen has been selected for this project as it aims to build a playground for forecasting and data timeserie analysis.
-
