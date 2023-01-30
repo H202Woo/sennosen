@@ -75,6 +75,10 @@ _**(be patient it's a demo server ;-p )**_
 
 A future step will allow you to create and publish your own tool depending on your needs or whenever you want to showcase a library/algo.
 
+## Why Sen-no-sen ?
+Sen-no-sen (先の先); is a term taken from the japanese martial arts. It litteraly translates as "ahead" but is often extended to "initiave". In this context it means "to take the intiative (of the attack) just before the opponent initiates any movement".
+During trainings each opponents throw their souls into the perception of every single movement, sign or intention to attack in order to react accordingly. The name sen-no-sen has been selected for this project as it aims to build a playground for forecasting and data timeserie analysis.
+
 ### <br>
 
 ---
@@ -88,10 +92,6 @@ Share your opinion with us by mail on thinkyWoo@gmail.com we would really apprec
 
 ---
 ## <br>
-
-## Why Sen-no-sen ?
-Sen-no-sen (先の先); is a term taken from the japanese martial arts. It litteraly translates as "ahead" but is often extended to "initiave". In this context it means "to take the intiative (of the attack) just before the opponent initiates any movement".
-During trainings each opponents throw their souls into the perception of every single movement, sign or intention to attack in order to react accordingly. The name sen-no-sen has been selected for this project as it aims to build a playground for forecasting and data timeserie analysis.
 
 # Installation instructions
 Show your interest and I'll make it public ;-)
