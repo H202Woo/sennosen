@@ -1,7 +1,7 @@
 # sennosen
 A framework for timeseries analysis
 
-![bgfsbg] (./img/Prophet forecasting 1.jpg)
+![bgfsbg](https://github.com/H202Woo/sennosen/blob/main/img/Overall1.jpg "")
 
 ## Installation instruction
 
